@@ -119,7 +119,7 @@ let daSchool = school(teachers: roster)
  Hint: The non-matching ID can be any number that a Teacher doesn’t have. This will help test to make sure that your program can handle Students whose favorite Teacher works at a different
  
  */
-var s1 = Student(name: String, favoriteTeacherIDproperty: <#T##Int#>)
+var s1 = Student(name: "R", favoriteTeacherIDproperty: 0)
 /*:
  14. Print the favorite teacher information for both Students that you defined above.
  Hint
